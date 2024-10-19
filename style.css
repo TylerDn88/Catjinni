@@ -209,6 +209,7 @@ p {
 }
 */	
 	#catjinni-description{
+		font-weight: bold;
 		color: #000000;
 	}
 #header .hamburger {
